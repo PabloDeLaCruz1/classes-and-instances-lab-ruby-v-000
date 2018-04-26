@@ -1,2 +1,2 @@
-class radio_button_tag
+class Dog 
 end
